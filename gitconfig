@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marianhalibei123@gmail.com
+	name = Marian Halibei
